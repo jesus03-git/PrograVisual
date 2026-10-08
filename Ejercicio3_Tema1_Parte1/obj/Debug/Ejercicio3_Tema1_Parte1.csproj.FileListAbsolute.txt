@@ -1,0 +1,12 @@
+C:\Users\yisus\source\repos\Ejercicio3_Tema1_Parte1\obj\Debug\Ejercicio3_Tema1_Parte1.csproj.AssemblyReference.cache
+C:\Users\yisus\source\repos\Ejercicio3_Tema1_Parte1\obj\Debug\Ejercicio3_Tema1_Parte1.Form1.resources
+C:\Users\yisus\source\repos\Ejercicio3_Tema1_Parte1\obj\Debug\Ejercicio3_Tema1_Parte1.Form2.resources
+C:\Users\yisus\source\repos\Ejercicio3_Tema1_Parte1\obj\Debug\Ejercicio3_Tema1_Parte1.Properties.Resources.resources
+C:\Users\yisus\source\repos\Ejercicio3_Tema1_Parte1\obj\Debug\Ejercicio3_Tema1_Parte1.csproj.GenerateResource.cache
+C:\Users\yisus\source\repos\Ejercicio3_Tema1_Parte1\obj\Debug\Ejercicio3_Tema1_Parte1.csproj.CoreCompileInputs.cache
+C:\Users\yisus\source\repos\Ejercicio3_Tema1_Parte1\bin\Debug\Ejercicio3_Tema1_Parte1.exe.config
+C:\Users\yisus\source\repos\Ejercicio3_Tema1_Parte1\bin\Debug\Ejercicio3_Tema1_Parte1.exe
+C:\Users\yisus\source\repos\Ejercicio3_Tema1_Parte1\bin\Debug\Ejercicio3_Tema1_Parte1.pdb
+C:\Users\yisus\source\repos\Ejercicio3_Tema1_Parte1\obj\Debug\Ejercicio3_Tema1_Parte1.exe
+C:\Users\yisus\source\repos\Ejercicio3_Tema1_Parte1\obj\Debug\Ejercicio3_Tema1_Parte1.pdb
+C:\Users\yisus\source\repos\Ejercicio3_Tema1_Parte1\obj\Debug\Ejercicio3_Tema1_Parte1.exe.config
