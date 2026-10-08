@@ -1,0 +1,11 @@
+C:\Users\yisus\source\repos\Ejercicio7-Tema3\bin\Debug\Ejercicio7-Tema3.exe.config
+C:\Users\yisus\source\repos\Ejercicio7-Tema3\bin\Debug\Ejercicio7-Tema3.exe
+C:\Users\yisus\source\repos\Ejercicio7-Tema3\bin\Debug\Ejercicio7-Tema3.pdb
+C:\Users\yisus\source\repos\Ejercicio7-Tema3\obj\Debug\Ejercicio7-Tema3.csproj.AssemblyReference.cache
+C:\Users\yisus\source\repos\Ejercicio7-Tema3\obj\Debug\Ejercicio7_Tema3.Form1.resources
+C:\Users\yisus\source\repos\Ejercicio7-Tema3\obj\Debug\Ejercicio7_Tema3.Properties.Resources.resources
+C:\Users\yisus\source\repos\Ejercicio7-Tema3\obj\Debug\Ejercicio7-Tema3.csproj.GenerateResource.cache
+C:\Users\yisus\source\repos\Ejercicio7-Tema3\obj\Debug\Ejercicio7-Tema3.csproj.CoreCompileInputs.cache
+C:\Users\yisus\source\repos\Ejercicio7-Tema3\obj\Debug\Ejercicio7-Tema3.exe
+C:\Users\yisus\source\repos\Ejercicio7-Tema3\obj\Debug\Ejercicio7-Tema3.pdb
+C:\Users\yisus\source\repos\Ejercicio7-Tema3\obj\Debug\Ejercicio7-Tema3.exe.config
