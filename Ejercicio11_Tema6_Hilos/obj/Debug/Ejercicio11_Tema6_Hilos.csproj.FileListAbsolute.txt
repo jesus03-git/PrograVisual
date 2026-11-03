@@ -1,0 +1,10 @@
+C:\Users\yisus\source\repos\Ejercicio11_Tema6_Hilos\bin\Debug\Ejercicio11_Tema6_Hilos.exe.config
+C:\Users\yisus\source\repos\Ejercicio11_Tema6_Hilos\bin\Debug\Ejercicio11_Tema6_Hilos.exe
+C:\Users\yisus\source\repos\Ejercicio11_Tema6_Hilos\bin\Debug\Ejercicio11_Tema6_Hilos.pdb
+C:\Users\yisus\source\repos\Ejercicio11_Tema6_Hilos\obj\Debug\Ejercicio11_Tema6_Hilos.csproj.AssemblyReference.cache
+C:\Users\yisus\source\repos\Ejercicio11_Tema6_Hilos\obj\Debug\Ejercicio11_Tema6_Hilos.Form1.resources
+C:\Users\yisus\source\repos\Ejercicio11_Tema6_Hilos\obj\Debug\Ejercicio11_Tema6_Hilos.Properties.Resources.resources
+C:\Users\yisus\source\repos\Ejercicio11_Tema6_Hilos\obj\Debug\Ejercicio11_Tema6_Hilos.csproj.GenerateResource.cache
+C:\Users\yisus\source\repos\Ejercicio11_Tema6_Hilos\obj\Debug\Ejercicio11_Tema6_Hilos.csproj.CoreCompileInputs.cache
+C:\Users\yisus\source\repos\Ejercicio11_Tema6_Hilos\obj\Debug\Ejercicio11_Tema6_Hilos.exe
+C:\Users\yisus\source\repos\Ejercicio11_Tema6_Hilos\obj\Debug\Ejercicio11_Tema6_Hilos.pdb

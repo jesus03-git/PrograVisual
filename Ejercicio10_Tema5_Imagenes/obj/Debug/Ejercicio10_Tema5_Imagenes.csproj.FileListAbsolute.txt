@@ -1,0 +1,10 @@
+C:\Users\yisus\source\repos\Ejercicio10_Tema5_Imagenes\obj\Debug\Ejercicio10_Tema5_Imagenes.csproj.AssemblyReference.cache
+C:\Users\yisus\source\repos\Ejercicio10_Tema5_Imagenes\bin\Debug\Ejercicio10_Tema5_Imagenes.exe.config
+C:\Users\yisus\source\repos\Ejercicio10_Tema5_Imagenes\bin\Debug\Ejercicio10_Tema5_Imagenes.exe
+C:\Users\yisus\source\repos\Ejercicio10_Tema5_Imagenes\bin\Debug\Ejercicio10_Tema5_Imagenes.pdb
+C:\Users\yisus\source\repos\Ejercicio10_Tema5_Imagenes\obj\Debug\Ejercicio10_Tema5_Imagenes.Form1.resources
+C:\Users\yisus\source\repos\Ejercicio10_Tema5_Imagenes\obj\Debug\Ejercicio10_Tema5_Imagenes.Properties.Resources.resources
+C:\Users\yisus\source\repos\Ejercicio10_Tema5_Imagenes\obj\Debug\Ejercicio10_Tema5_Imagenes.csproj.GenerateResource.cache
+C:\Users\yisus\source\repos\Ejercicio10_Tema5_Imagenes\obj\Debug\Ejercicio10_Tema5_Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\yisus\source\repos\Ejercicio10_Tema5_Imagenes\obj\Debug\Ejercicio10_Tema5_Imagenes.exe
+C:\Users\yisus\source\repos\Ejercicio10_Tema5_Imagenes\obj\Debug\Ejercicio10_Tema5_Imagenes.pdb
