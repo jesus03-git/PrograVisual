@@ -1,0 +1,11 @@
+C:\Users\yisus\source\repos\P6_Hilos\bin\Debug\P6_Hilos.exe.config
+C:\Users\yisus\source\repos\P6_Hilos\bin\Debug\P6_Hilos.exe
+C:\Users\yisus\source\repos\P6_Hilos\bin\Debug\P6_Hilos.pdb
+C:\Users\yisus\source\repos\P6_Hilos\obj\Debug\P6_Hilos.csproj.AssemblyReference.cache
+C:\Users\yisus\source\repos\P6_Hilos\obj\Debug\P6_Hilos.Properties.Resources.resources
+C:\Users\yisus\source\repos\P6_Hilos\obj\Debug\P6_Hilos.csproj.GenerateResource.cache
+C:\Users\yisus\source\repos\P6_Hilos\obj\Debug\P6_Hilos.csproj.CoreCompileInputs.cache
+C:\Users\yisus\source\repos\P6_Hilos\obj\Debug\P6_Hilos.exe
+C:\Users\yisus\source\repos\P6_Hilos\obj\Debug\P6_Hilos.pdb
+C:\Users\yisus\source\repos\P6_Hilos\obj\Debug\P6_Hilos.exe.config
+C:\Users\yisus\source\repos\P6_Hilos\obj\Debug\P6_Hilos.Principal.resources

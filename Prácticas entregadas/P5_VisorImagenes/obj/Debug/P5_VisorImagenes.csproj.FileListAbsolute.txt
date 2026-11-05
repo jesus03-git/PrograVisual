@@ -1,0 +1,12 @@
+C:\Users\yisus\source\repos\P5_VisorImagenes\bin\Debug\P5_VisorImagenes.exe.config
+C:\Users\yisus\source\repos\P5_VisorImagenes\bin\Debug\P5_VisorImagenes.exe
+C:\Users\yisus\source\repos\P5_VisorImagenes\bin\Debug\P5_VisorImagenes.pdb
+C:\Users\yisus\source\repos\P5_VisorImagenes\obj\Debug\P5_VisorImagenes.csproj.AssemblyReference.cache
+C:\Users\yisus\source\repos\P5_VisorImagenes\obj\Debug\P5_VisorImagenes.Properties.Resources.resources
+C:\Users\yisus\source\repos\P5_VisorImagenes\obj\Debug\P5_VisorImagenes.VisorImagenes.resources
+C:\Users\yisus\source\repos\P5_VisorImagenes\obj\Debug\P5_VisorImagenes.csproj.GenerateResource.cache
+C:\Users\yisus\source\repos\P5_VisorImagenes\obj\Debug\P5_VisorImagenes.csproj.CoreCompileInputs.cache
+C:\Users\yisus\source\repos\P5_VisorImagenes\obj\Debug\P5_VisorImagenes.exe
+C:\Users\yisus\source\repos\P5_VisorImagenes\obj\Debug\P5_VisorImagenes.pdb
+C:\Users\yisus\source\repos\P5_VisorImagenes\obj\Debug\P5_VisorImagenes.exe.config
+C:\Users\yisus\source\repos\P5_VisorImagenes\obj\Debug\P5_VisorImagenes.VentanaHija.resources

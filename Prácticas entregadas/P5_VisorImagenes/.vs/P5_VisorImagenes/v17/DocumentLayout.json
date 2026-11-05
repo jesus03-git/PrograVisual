@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25790C69-D93C-4168-9C65-75D22D16B650}|P5_VisorImagenes.csproj|c:\\users\\yisus\\source\\repos\\p5_visorimagenes\\visorimagenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25790C69-D93C-4168-9C65-75D22D16B650}|P5_VisorImagenes.csproj|solutionrelative:visorimagenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25790C69-D93C-4168-9C65-75D22D16B650}|P5_VisorImagenes.csproj|C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\visorimagenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25790C69-D93C-4168-9C65-75D22D16B650}|P5_VisorImagenes.csproj|solutionrelative:visorimagenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25790C69-D93C-4168-9C65-75D22D16B650}|P5_VisorImagenes.csproj|C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\ventanahija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25790C69-D93C-4168-9C65-75D22D16B650}|P5_VisorImagenes.csproj|solutionrelative:ventanahija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25790C69-D93C-4168-9C65-75D22D16B650}|P5_VisorImagenes.csproj|C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\visorimagenes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25790C69-D93C-4168-9C65-75D22D16B650}|P5_VisorImagenes.csproj|solutionrelative:visorimagenes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25790C69-D93C-4168-9C65-75D22D16B650}|P5_VisorImagenes.csproj|C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\ventanahija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25790C69-D93C-4168-9C65-75D22D16B650}|P5_VisorImagenes.csproj|solutionrelative:ventanahija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|P5_VisorImagenes||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisorImagenes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\VisorImagenes.Designer.cs",
+              "RelativeDocumentMoniker": "VisorImagenes.Designer.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\VisorImagenes.Designer.cs",
+              "RelativeToolTip": "VisorImagenes.Designer.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAwwBwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:59:45.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P5_VisorImagenes",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\P5_VisorImagenes.csproj",
+              "RelativeDocumentMoniker": "P5_VisorImagenes.csproj",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\P5_VisorImagenes.csproj",
+              "RelativeToolTip": "P5_VisorImagenes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-17T11:00:34.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentanaHija.cs",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\VentanaHija.cs",
+              "RelativeDocumentMoniker": "VentanaHija.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\VentanaHija.cs",
+              "RelativeToolTip": "VentanaHija.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T14:19:54.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentanaHija.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\VentanaHija.cs",
+              "RelativeDocumentMoniker": "VentanaHija.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\VentanaHija.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentanaHija.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T14:18:59.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisorImagenes.cs",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\VisorImagenes.cs",
+              "RelativeDocumentMoniker": "VisorImagenes.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\VisorImagenes.cs",
+              "RelativeToolTip": "VisorImagenes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T14:13:58.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisorImagenes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\VisorImagenes.cs",
+              "RelativeDocumentMoniker": "VisorImagenes.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P5_VisorImagenes\\VisorImagenes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VisorImagenes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T14:06:37.368Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

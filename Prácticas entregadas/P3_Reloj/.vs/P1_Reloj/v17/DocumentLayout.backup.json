@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|c:\\users\\yisus\\source\\repos\\p3_reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\dlgdatoszona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:dlgdatoszona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\dlgdatoszona.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:dlgdatoszona.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\dlgdatoszona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:dlgdatoszona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\edithora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:edithora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\edithora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:edithora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\relojanalogico.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:relojanalogico.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\relojanalogico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:relojanalogico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\acercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:acercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\acercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:acercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|C:\\Users\\yisus\\source\\repos\\P3_Reloj\\relojanalogico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E026B3F5-2D4D-4D8F-9EE1-940C58DAA761}|P1_Reloj.csproj|solutionrelative:relojanalogico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\Form1.resx*",
+              "RelativeToolTip": "Form1.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-27T13:21:59.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DlgDatosZona.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\DlgDatosZona.Designer.cs",
+              "RelativeDocumentMoniker": "DlgDatosZona.Designer.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\DlgDatosZona.Designer.cs",
+              "RelativeToolTip": "DlgDatosZona.Designer.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAD4v4oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T11:07:48.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DlgDatosZona.cs",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\DlgDatosZona.cs",
+              "RelativeDocumentMoniker": "DlgDatosZona.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\DlgDatosZona.cs",
+              "RelativeToolTip": "DlgDatosZona.cs",
+              "ViewState": "AgIAAFoAAAAAYGZmZmbWv2UAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:50:15.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DlgDatosZona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\DlgDatosZona.cs",
+              "RelativeDocumentMoniker": "DlgDatosZona.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\DlgDatosZona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DlgDatosZona.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:42:25.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditHora.cs",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\EditHora.cs",
+              "RelativeDocumentMoniker": "EditHora.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\EditHora.cs",
+              "RelativeToolTip": "EditHora.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:27:19.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditHora.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\EditHora.cs",
+              "RelativeDocumentMoniker": "EditHora.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\EditHora.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EditHora.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:27:04.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\Form1.Designer.cs*",
+              "RelativeToolTip": "Form1.Designer.cs*",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAqwPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:14:11.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RelojAnalogico.cs",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\RelojAnalogico.cs",
+              "RelativeDocumentMoniker": "RelojAnalogico.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\RelojAnalogico.cs",
+              "RelativeToolTip": "RelojAnalogico.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAAAPEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T17:20:19.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RelojAnalogico.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\RelojAnalogico.cs",
+              "RelativeDocumentMoniker": "RelojAnalogico.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P2_Reloj\\RelojAnalogico.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\P2_Reloj\\RelojAnalogico.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T15:28:14.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-11T12:56:51.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AcercaDe.cs",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\AcercaDe.cs",
+              "RelativeDocumentMoniker": "AcercaDe.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\AcercaDe.cs",
+              "RelativeToolTip": "AcercaDe.cs",
+              "ViewState": "AgIAAA0AAABAZ2ZmZqYkwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T12:50:30.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AcercaDe.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\AcercaDe.cs",
+              "RelativeDocumentMoniker": "AcercaDe.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P2_Reloj\\AcercaDe.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\P2_Reloj\\AcercaDe.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T12:43:50.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T11:27:23.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T11:25:23.847Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelojAnalogico.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\RelojAnalogico.Designer.cs",
+              "RelativeDocumentMoniker": "RelojAnalogico.Designer.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P3_Reloj\\RelojAnalogico.Designer.cs",
+              "RelativeToolTip": "RelojAnalogico.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T17:55:29.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

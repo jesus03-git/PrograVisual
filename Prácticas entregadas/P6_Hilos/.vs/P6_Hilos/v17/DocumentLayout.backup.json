@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yisus\\source\\repos\\P6_Hilos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D451079B-C4CD-420F-815B-FD6CFD82DED3}|P6_Hilos.csproj|c:\\users\\yisus\\source\\repos\\p6_hilos\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D451079B-C4CD-420F-815B-FD6CFD82DED3}|P6_Hilos.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451079B-C4CD-420F-815B-FD6CFD82DED3}|P6_Hilos.csproj|C:\\Users\\yisus\\source\\repos\\P6_Hilos\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D451079B-C4CD-420F-815B-FD6CFD82DED3}|P6_Hilos.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P6_Hilos\\Principal.cs",
+              "RelativeDocumentMoniker": "Principal.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P6_Hilos\\Principal.cs*",
+              "RelativeToolTip": "Principal.cs*",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAhwAsBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:33:42.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yisus\\source\\repos\\P6_Hilos\\Principal.cs",
+              "RelativeDocumentMoniker": "Principal.cs",
+              "ToolTip": "C:\\Users\\yisus\\source\\repos\\P6_Hilos\\Principal.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Principal.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:27:07.235Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
