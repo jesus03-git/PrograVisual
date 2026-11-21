@@ -1,0 +1,10 @@
+C:\Users\yisus\source\repos\Ejercicio12_Tema7_BBDD\bin\Debug\Ejercicio12_Tema7_BBDD.exe.config
+C:\Users\yisus\source\repos\Ejercicio12_Tema7_BBDD\bin\Debug\Ejercicio12_Tema7_BBDD.exe
+C:\Users\yisus\source\repos\Ejercicio12_Tema7_BBDD\bin\Debug\Ejercicio12_Tema7_BBDD.pdb
+C:\Users\yisus\source\repos\Ejercicio12_Tema7_BBDD\obj\Debug\Ejercicio12_Tema7_BBDD.csproj.AssemblyReference.cache
+C:\Users\yisus\source\repos\Ejercicio12_Tema7_BBDD\obj\Debug\Ejercicio12_Tema7_BBDD.Form1.resources
+C:\Users\yisus\source\repos\Ejercicio12_Tema7_BBDD\obj\Debug\Ejercicio12_Tema7_BBDD.Properties.Resources.resources
+C:\Users\yisus\source\repos\Ejercicio12_Tema7_BBDD\obj\Debug\Ejercicio12_Tema7_BBDD.csproj.GenerateResource.cache
+C:\Users\yisus\source\repos\Ejercicio12_Tema7_BBDD\obj\Debug\Ejercicio12_Tema7_BBDD.csproj.CoreCompileInputs.cache
+C:\Users\yisus\source\repos\Ejercicio12_Tema7_BBDD\obj\Debug\Ejercicio12_Tema7_BBDD.exe
+C:\Users\yisus\source\repos\Ejercicio12_Tema7_BBDD\obj\Debug\Ejercicio12_Tema7_BBDD.pdb
